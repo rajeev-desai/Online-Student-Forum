@@ -1,0 +1,140 @@
+.back {
+	background-color: #2275A2;
+}
+.back_1 {
+	background-color: #EEF;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.logo {
+	text-align: center;
+	padding-top: 7%;
+}
+.logo-reg {
+	text-align: center;
+	padding-top: 2%;
+}
+.desc {
+	font-size: 20px;
+	color: white;
+}
+.login-form {
+	padding-top: 25%;
+}
+.register-form {
+	padding-top: 15%;
+}
+.feedback-form {
+	text-align: center;
+}
+.reg-btn {
+	text-align: right;
+	padding-top: 12px;
+	border: none;
+}
+.btn-login {
+	background-color: #FF9A2B;
+	border: 2px black;
+	font-weight: bold;
+}
+.btn-reg {
+	color: #000000;
+	font-weight: bold;
+}
+.gender-div {
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+.rate-div {
+	font-size: 20px;
+	text-align: justify;
+}
+.nav-bar {
+	background-color: #2275A2;
+	padding: 0.5%;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	z-index: 2;
+}
+.wel-msg {
+	padding-top: 15px;
+}
+.nav-bar-center {
+	text-align: center;
+}
+.nav-bar-right {
+	text-align: right;
+	color: #FF9A2B;
+	font-size: 15px;
+	font-weight: bold;
+	padding-top: 7px;
+}
+.nav-bar-left {
+	color: #FF9A2B;
+	font-size: 15px;
+	font-weight: bold;
+	padding-top: 7px;
+}
+.footer {
+	width: 100%;
+	padding: 0.5%; 
+	background-color: #2275A2;
+	text-align: right;
+	position: fixed;
+	bottom: 0;
+	font-size: 20px;
+	padding-right: 10px;
+}
+.footer-color {
+	color: #FFF;
+	font-weight: bold;
+}
+#mainDiv {
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+#entryDiv-white {
+	border: outset;
+	background-color: white;
+	height: 80px;
+	width: 100%;
+}
+#entryDiv-black {
+	border: outset;
+	background-color: #CCCCCC;
+	color: black;
+	height: 80px;
+	width: 100%;
+}
+#time {
+	text-align: right;
+}
+.post {
+	padding-top: 10px;
+}
+.alert-reg {
+	width: 360px;
+}
+.alert-post {
+	padding-top: 75px;
+	width: 100%;
+	text-align: center;
+}
+.login-btn, .register-btn {
+	width: 200px;
+	height: 40px;
+	border-radius: 5px;
+	border: 1px solid;
+	font-size: 20px;
+}
+.logout-btn {
+	padding-top: 10px;
+	float: right;
+}
+.feedback-form {
+	padding-top: 150px;
+}
+#comment {
+	resize: none;
+}
